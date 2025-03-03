@@ -1,0 +1,7 @@
+name = "MyProject"
+authors = ["a13h1 <a13h1@wearehackerone.com>"]
+uuid = "bb8ea38c-fad5-453f-8365-609e204c734d"
+version ="0.0.1"
+
+[deps]
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
